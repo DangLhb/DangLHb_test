@@ -6,4 +6,7 @@ int sum_of_two_number(int a, int b)
 	return sum;
 	//sonvhc
 	//danglhb - add
+
+
+	//danglhb- check
 }
